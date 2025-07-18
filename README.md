@@ -3,7 +3,7 @@ It is a simple task master application.
 
 First create static and templates in vscode alongwith app.py file.
 
-All the flask code in python is written in this just log on to virtual environment and keep and main.css in static/css folder while templates will have base.html which is the base file 
+All the flask code in python is written in this just log on to virtual environment and keep main.css in static/css folder while templates will have base.html which is the base file 
 where you can have the html boilerplate extension in vscode and created over that.Rest index.html and update.html extends base.html,both files to be kept in templates.
 
 After logging into virtualenv using
