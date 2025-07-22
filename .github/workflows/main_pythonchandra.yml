@@ -70,4 +70,4 @@ jobs:
           app-name: 'pythonchandra'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FEC9A0BAC74043E68A1FA121CA6FE258 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_32521DF53FE64C38B62E82CAB2974236 }}
